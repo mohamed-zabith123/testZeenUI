@@ -1,0 +1,2 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+stopTest,click stop test icon,btnStop,click,,
