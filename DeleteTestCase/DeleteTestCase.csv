@@ -1,0 +1,2 @@
+Test Case,Description,Object,Action ,DataColumn,WaitAfter
+DeleteTestCase,open delete test suite,btnDeleteTestCase,click,,10

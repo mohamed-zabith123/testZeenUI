@@ -1,0 +1,7 @@
+Test Case,Enabled,Description,waitafter,
+SetWaitAfterTime,1,Empty wait after time,,
+SetWaitAfterTime,1,default wait after time,1,
+SetWaitAfterTime,1,allow numbers only and not allow to type other characters,               a                                 a, 
+SetWaitAfterTime,1,verify  wait after time not less than 0,2,
+SetWaitAfterTime,1,verify  wait after time not greater than 99,98,
+SetWaitAfterTime,1,correct waitafter time,10,

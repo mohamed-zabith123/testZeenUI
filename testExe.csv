@@ -2,17 +2,17 @@ Test Case ID,Description,Enabled,Data File (if not specified default file will b
 OpenZeenUI,Successfully ZeenUI App Started,1,,brackOnFail:1
 CreateNewProject,Create new project,1,,brackOnFail:1
 createNewTestCase,Create new testcase,1,,brackOnFail:1
-stopTest,Stop Function,1,,brackOnFail:1
+OpenTestCase,Open current test directory allow the user to open a test case in excel,1,,brackOnFail:1
+SetWaitAfterTime,set wait after time,1,,brackOnFail:1
+RunTest,Open zeen & Run test,1,,brackOnFail:1
 PauseTest,Pause a running test,1,,brackOnFail:1
 ResumeTest,Resume a paused test,0,,brackOnFail:1
-ContinueTest,skip a current failed step and continue the test in breakonfail mode,1,,brackOnFail:1
-RepeatAllTestCase,Repeat Function of all Test cases,1,,brackOnFail:1
 RepeatLastTestCase,Repeat Function of LastTested test cases,1,,brackOnFail:1
+RepeatAllTestCase,Repeat Function of all Test cases,1,,brackOnFail:1
+ContinueTest,skip a current failed step and continue the test in breakonfail mode,1,,brackOnFail:1
+stopTest,Stop Function,1,,brackOnFail:1
+ViewReport,View Report for all the exucuted tests records,1,,brackOnFail:1
 DeleteTestCase,Delete Function,1,,brackOnFail:1
-SetWaitAfterTime,set wait after time,1,,brackOnFail:1
 OpenExistingProject,open existing project,1,,brackOnFail:1
 ExitZeenUI,Successfully Exit ZeenUI App,1,,brackOnFail:1
-OpenTestCase,Open current test directory allow the user to open a test case in excel,1,,brackOnFail:1
-ViewReport,View Report for all the exucuted tests records,1,,brackOnFail:1
 Update,update the Zeen,0,,brackOnFail:1
-RunTest,Open zeen & Run test,1,,brackOnFail:1
