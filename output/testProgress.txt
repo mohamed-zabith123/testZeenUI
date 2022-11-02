@@ -1,12 +1,3 @@
-2022-11-01 01:00:44,602 EX    DesktopAppConfig    2,2   Set executable jar:D:\MYDOC\ILTWORKS\ILT TEST TOOLS\zeenUI\zeenUI\target\zeenUI-1.0-SNAPSHOT-jar-with-dependencies.jar	 
-2022-11-01 01:00:56,178 EX    openexistingproject 2,2   Clicked btnOpenProject	 
-2022-11-01 01:00:59,783 EX    createNewTestCase   2,2   Clicked once btnCreateTC	 
-2022-11-01 01:01:02,103 EX    createNewTestCase   3,2   Entered the text intxtTestSuiteName	 
-2022-11-01 01:01:17,502 EX    createNewTestCase   4,2   Clicked btnCreateTestSuite	 
-2022-11-01 01:01:19,642 EX    createNewTestCase   3,3   Entered the text intxtTestSuiteName	 
-2022-11-01 01:01:34,900 EX    createNewTestCase   4,3   Clicked btnCreateTestSuite	 
-2022-11-01 01:01:37,057 EX    createNewTestCase   3,4   Entered the text intxtTestSuiteName	 
-2022-11-01 01:01:52,309 EX    createNewTestCase   4,4   Clicked btnCreateTestSuite	 
-2022-11-01 01:01:54,644 EX    createNewTestCase   3,5   Entered the text intxtTestSuiteName	 
-2022-11-01 01:02:09,936 EX    createNewTestCase   4,5   Clicked btnCreateTestSuite	 
-2022-11-01 01:02:10,167 EX    stopTest            2,2   Clicked btnStop	 
+2022-11-02 08:27:07,581 Ig	CreateNewProject				 Steps file not found: D:\MYDOC\ILTWORKS\iltTests\tests\testZeenUI\GitHub\testZeenUI\CreateNewProject\CreateNewProject.csv 
+2022-11-02 08:27:07,600 Ig	ResumeTest				 Steps file not found: D:\MYDOC\ILTWORKS\iltTests\tests\testZeenUI\GitHub\testZeenUI\ResumeTest\ResumeTest.csv 
+2022-11-02 08:27:07,612 Ig	Update				 Steps file not found: D:\MYDOC\ILTWORKS\iltTests\tests\testZeenUI\GitHub\testZeenUI\Update\Update.csv 

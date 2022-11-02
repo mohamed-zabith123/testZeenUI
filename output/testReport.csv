@@ -1,7 +1,1 @@
-2022-11-01 01:00:44 ,DesktopAppConfig,2,PASS,,"" 
-2022-11-01 01:00:56 ,openexistingproject,2,PASS,,"" 
-2022-11-01 01:01:17 ,createNewTestCase,2,PASS,,"" 
-2022-11-01 01:01:34 ,createNewTestCase,3,PASS,,"" 
-2022-11-01 01:01:52 ,createNewTestCase,4,PASS,,"" 
-2022-11-01 01:02:09 ,createNewTestCase,5,PASS,,"" 
-2022-11-01 01:02:10 ,stopTest,2,PASS,,"" 
+TIME,SUITE ID,DATA ROW,TEST STATUS,DESCRIPTION,ERROR

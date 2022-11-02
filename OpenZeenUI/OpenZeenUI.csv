@@ -1,0 +1,2 @@
+Test Case ID,Description,Object,Action ,DataColumn,WaitAfter
+OpenZeenUI,set applicagtion,D:\MYDOC\ILTWORKS\ILT TEST TOOLS\zeenUI\zeenUI\target\zeenUI-1.0-SNAPSHOT-jar-with-dependencies.jar,setExecutableJar,,
