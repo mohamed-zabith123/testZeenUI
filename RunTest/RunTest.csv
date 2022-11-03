@@ -1,2 +1,2 @@
 Test Case,Description,Object,Action ,DataColumn,WaitAfter
-RunTest,Click  RunTest Button to run a test,btnPlay,click,,
+RunTest,Click  RunTest Button to run a test,btnPlay,click,,10

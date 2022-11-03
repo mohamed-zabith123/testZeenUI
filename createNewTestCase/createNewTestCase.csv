@@ -1,4 +1,0 @@
-Test Case ID,Description,Object,Action,DataColumn,WaitAfter
-createNewTestCase,click create new test case icon,btnCreateTC,stpClick,,3
-createNewTestCase,enter name ,txtTestSuiteName,input,name,2
-createNewTestCase,click create button,btnCreateTestSuite,click,,15

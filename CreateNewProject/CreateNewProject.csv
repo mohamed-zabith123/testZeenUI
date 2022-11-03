@@ -1,0 +1,4 @@
+Test Case,Description,Object,Action ,DataColumn,WaitAfter
+CreateNewProject,Click create new project button,btnCreateProject,stpClick,,
+CreateNewProject,input project name,txtProjectName,input,projectName,
+CreateNewProject,click create button,btnCreate,click,,

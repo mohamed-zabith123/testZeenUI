@@ -1,2 +1,2 @@
-Test Case,Description,Object,Action ,DataColumn,WaitAfter
+Test Case,Description,Object,"Action ",DataColumn,WaitAfter
 OpenExistingProject,click open Test project Button,btnOpenProject,click,,10

@@ -1,3 +1,39 @@
-2022-11-02 08:27:07,581 Ig	CreateNewProject				 Steps file not found: D:\MYDOC\ILTWORKS\iltTests\tests\testZeenUI\GitHub\testZeenUI\CreateNewProject\CreateNewProject.csv 
-2022-11-02 08:27:07,600 Ig	ResumeTest				 Steps file not found: D:\MYDOC\ILTWORKS\iltTests\tests\testZeenUI\GitHub\testZeenUI\ResumeTest\ResumeTest.csv 
-2022-11-02 08:27:07,612 Ig	Update				 Steps file not found: D:\MYDOC\ILTWORKS\iltTests\tests\testZeenUI\GitHub\testZeenUI\Update\Update.csv 
+2022-11-03 17:34:47,014 Ig	ResumeTest				 Steps file not found: C:\Zeen\testZeenUI\ResumeTest\ResumeTest.csv 
+2022-11-03 17:34:47,029 Ig	Update				 Steps file not found: C:\Zeen\testZeenUI\Update\Update.csv 
+2022-11-03 17:34:55,397 EX    OpenZeenUI          2,2   Set executable jar:D:\MYDOC\ILTWORKS\ILT TEST TOOLS\zeenUI-1.0-SNAPSHOT-jar-with-dependencies.jar	 
+2022-11-03 17:34:57,569 EX    OpenZeenUI          3,2   Verified the the text intitle	 
+2022-11-03 17:35:01,069 EX    CreateNewProject    2,2   Clicked once btnCreateProject	 
+2022-11-03 17:35:03,241 EX    CreateNewProject    3,2   Entered the text intxtProjectName	 
+2022-11-03 17:35:05,651 EX    CreateNewProject    4,2   Clicked btnCreate	 
+2022-11-03 17:35:08,080 EX    CreateNewProject    3,4   Entered the text intxtProjectName	 
+2022-11-03 17:35:10,361 EX    CreateNewProject    4,4   Clicked btnCreate	 
+2022-11-03 17:35:12,990 EX    CreateNewProject    3,5   Entered the text intxtProjectName	 
+2022-11-03 17:35:15,271 EX    CreateNewProject    4,5   Clicked btnCreate	 
+2022-11-03 17:35:25,975 EX    OpenExistingProject 2,2   Clicked btnOpenProject	 
+2022-11-03 17:35:29,459 EX    createNewTestSuite  2,2   Clicked once btnCreateTC	 
+2022-11-03 17:35:31,553 EX    createNewTestSuite  4,2   Entered the text intxtTestSuiteName	 
+2022-11-03 17:35:36,806 EX    createNewTestSuite  5,2   Clicked btnCreateTestSuite	 
+2022-11-03 17:35:39,978 EX    createNewTestSuite  3,3   Executed command:rm -r	 
+2022-11-03 17:35:42,306 EX    createNewTestSuite  4,3   Entered the text intxtTestSuiteName	 
+2022-11-03 17:35:47,555 EX    createNewTestSuite  5,3   Clicked btnCreateTestSuite	 
+2022-11-03 17:35:49,680 EX    createNewTestSuite  4,4   Entered the text intxtTestSuiteName	 
+2022-11-03 17:35:54,934 EX    createNewTestSuite  5,4   Clicked btnCreateTestSuite	 
+2022-11-03 17:35:57,293 EX    createNewTestSuite  4,5   Entered the text intxtTestSuiteName	 
+2022-11-03 17:36:02,558 EX    createNewTestSuite  5,5   Clicked btnCreateTestSuite	 
+2022-11-03 17:36:06,949 EX    SetWaitAfterTime    2,2   Verified the the text intxtTime	 
+2022-11-03 17:36:09,091 EX    SetWaitAfterTime    3,3   Entered the text intxtTime	 
+2022-11-03 17:36:11,571 EX    SetWaitAfterTime    3,4   Entered the text intxtTime	 
+2022-11-03 17:36:13,661 EX    SetWaitAfterTime    3,5   Entered the text intxtTime	 
+2022-11-03 17:36:15,825 EX    SetWaitAfterTime    3,6   Entered the text intxtTime	 
+2022-11-03 17:36:17,940 EX    SetWaitAfterTime    3,7   Entered the text intxtTime	 
+2022-11-03 17:36:32,468 EX    RunTest             2,2   Clicked btnPlay	 
+2022-11-03 17:36:47,759 EX    PauseTest           2,2   Clicked btnPause	 
+2022-11-03 17:37:02,846 EX    RepeatLastTestCase  2,2   Clicked btnPause	 
+2022-11-03 17:37:10,002 EX    RepeatLastTestCase  3,2   Clicked btnRepLast	 
+2022-11-03 17:37:25,147 EX    RepeatAllTestCase   2,2   Clicked btnPause	 
+2022-11-03 17:37:35,294 EX    RepeatAllTestCase   3,2   Clicked btnRepAll	 
+2022-11-03 17:37:37,586 EX    stopTest            2,2   Clicked btnStop	 
+2022-11-03 17:37:46,797 EX    ViewReport          2,2   Clicked btnReport	 
+2022-11-03 17:37:57,565 EX    OpenTestSuite       2,2   Clicked btnOpenTestSuite	 
+2022-11-03 17:38:08,482 EX    DeleteTestCase      2,2   Clicked btnDeleteTestCase	 
+2022-11-03 17:38:10,702 EX    ExitZeenUI          2,2   Clicked btnClose	 

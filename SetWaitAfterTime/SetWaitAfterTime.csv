@@ -1,2 +1,3 @@
 Test Case,Description,Object,Action ,DataColumn,WaitAfter
+SetWaitAfterTime,verify default verify time,txtTime,verifyText,defaultTime,
 SetWaitAfterTime,input the value,txtTime,input,waitafter,

@@ -1,2 +1,2 @@
 Test Case,Description,Object,Action ,DataColumn,WaitAfter
-PauseTest,Click Pause button,btnPause,click,,5
+PauseTest,Click Pause button,btnPause,click,,15

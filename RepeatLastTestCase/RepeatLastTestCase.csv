@@ -1,2 +1,3 @@
 Test Case,Description,Object,Action ,DataColumn,WaitAfter
+RepeatLastTestCase,Click Pause button,btnPause,click,,15
 RepeatLastTestCase,click repeatlasttestcase,btnRepLast,click,,7

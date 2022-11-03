@@ -1,0 +1,5 @@
+Test Case,Enabled,description,projectName
+CreateNewProject,1,validate empty,
+CreateNewProject,0,Validate the underscore,sample_project
+CreateNewProject,1,validate numeric,2313
+CreateNewProject,1,Enter a project name,SampleProject

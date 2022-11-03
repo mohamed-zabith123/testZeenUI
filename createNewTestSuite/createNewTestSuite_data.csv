@@ -1,0 +1,5 @@
+Test Case ID,Enabled,description,name,arguments
+createNewTestSuite,1,empty field,,NaN
+createNewTestSuite,1,enter duplicate test suite name,navExpoloader,D:\Demo\NavGoogle
+createNewTestSuite,1,enter numeric values,12,NaN
+createNewTestSuite,1,enter valid test suite name,testSamples,NaN
